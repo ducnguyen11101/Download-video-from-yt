@@ -17,4 +17,14 @@ $ python 3 -m venv venv
 $ source venv/bin/activate
 $ pip3 install .
 ```
- 
+
+## Chạy dự án
+
+Mở Visual Studio Code.
+
+Mở file vừa mới tải,
+
+Vào mainfinal và bấm run.
+
+
+
